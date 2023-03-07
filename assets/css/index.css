@@ -79,3 +79,11 @@ padding: 20px;
 .section_promoçãoprincipal h2{
     padding: 15px;
 }
+
+.div_cardapio{
+    background-color: black;
+margin: 0;
+padding: 0;
+box-shadow: 3px 5px 25px 10px rgb(255, 255, 255);
+margin-top: 30px;
+}
