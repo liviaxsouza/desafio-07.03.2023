@@ -12,7 +12,7 @@ header {
     text-align: center;
 }
 
-#div_1{
+img{
     animation-name: spin;
     animation-duration: 1s;
     animation-iteration-count: initial;
@@ -78,4 +78,3 @@ body {
 img {
     margin-top: 10px;
 }
-
