@@ -34,7 +34,7 @@ header {
     padding: 10px;
     border-radius: 5px;
 }
-.anv_2 {
+.anav_2 {
     text-decoration: none;
     color: black;
     font-family: 'Times New Roman';
@@ -59,5 +59,14 @@ nav {
     justify-content: center;
     margin-top: 20px;
 
+}
+
+.anav_1:hover {
+    background-color: rgba(70, 68, 68, 0.221);
+    transition: 1s;
+}
+
+.anav_2:hover {
+    background-color:rgba(70, 68, 68, 0.221) ;
 }
 
