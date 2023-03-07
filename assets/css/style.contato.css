@@ -1,5 +1,9 @@
 form {
     display: flex;
     flex-direction: column;
+    width: 30%;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 80px;
 
 } 
