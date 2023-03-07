@@ -1,3 +1,5 @@
+<!--inicio do style--> 
+
 form {
     display: flex;
     flex-direction: column;
@@ -9,3 +11,22 @@ form {
     color:black;
 
 } 
+
+<!--edição do input-->
+#input {
+    margin-bottom: 20px;
+    }
+
+<! edição do botão-->
+#botão {
+    background-color: aqua;
+}
+<! edição do hear-->
+head {
+    background-color: blueviolet;
+}
+<!edição do body-->
+body {
+    background-color: blueviolet;
+
+}
