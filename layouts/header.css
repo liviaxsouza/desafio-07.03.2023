@@ -26,3 +26,11 @@ header {
         transform: rotate(360deg);
     }
 }
+.anav_1 {
+    text-decoration: none;
+    color: black;
+    font-family: 'Times New Roman';
+    font-size: large;
+    padding: 10px;
+    border-radius: 5px;
+}
