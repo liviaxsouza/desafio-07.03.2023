@@ -1,10 +1,10 @@
 body{
     background-color: black;
-    margin: auto;
+    margin:auto;
     padding: 0;
     width: 30%;
     font-family: 'Times New Roman', Times, serif;
-    margin-top: 80px;
+    margin: top 0;
     border-radius: 30px;
     color: white;
     text-align: center;
@@ -16,7 +16,7 @@ body{
 h1 {
     color:white;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 70px;
+    font-size: 40px;
     text-align: center;
     margin-top: 50px;
 }
@@ -34,4 +34,5 @@ h1 {
     text-align: center;
     width: 50px;
     border-radius: 10px;
+    margin-top: auto;
    }
