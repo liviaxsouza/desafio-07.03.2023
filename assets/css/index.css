@@ -122,6 +122,6 @@ margin: 15px;
 display: flex;
 }
 
-ifooter {
-
+#footer {
+    margin-bottom: -5px;
 }
