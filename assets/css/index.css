@@ -109,7 +109,11 @@ margin-bottom: 20px;
     width: 33.33%;
 margin: 15px;
     background-color: #A6A6A6;
+    border-radius: 20px;
+}
 
+.paisectiondepo h2 {
+    padding-left: 10px;
 }
 
 .sectiondepo img{
@@ -120,6 +124,7 @@ margin: 15px;
 
 .divContainerDepo{
 display: flex;
+border-radius: 10px;
 }
 
 #footer {
