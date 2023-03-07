@@ -54,3 +54,10 @@ nav li {
     margin-left: 30px;
 }
 
+nav {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+
+}
+
