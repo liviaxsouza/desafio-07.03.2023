@@ -16,7 +16,7 @@ body{
 h1 {
     color:white;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 90px;
+    font-size: 70px;
     text-align: center;
     margin-top: 50px;
 }
@@ -28,10 +28,10 @@ h1 {
     margin-bottom: -5px;
 }
 
-#botão {
-    background-color:white;
-    width: 90px;
+
+
+ # button {
     text-align: center;
-    text-justify: auto;
+    width: 50px;
     border-radius: 10px;
-}
+   }
