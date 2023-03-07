@@ -1,5 +1,13 @@
 body{
     background-color: black;
+    margin: auto;
+    padding: 0;
+    width: 30%;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 80px;
+    border-radius: 30px;
+    color: white;
+
 }
 
 h1 {
