@@ -3,11 +3,11 @@ body{
 }
 
 h1 {
-    color: cadetblue;
+    color:white;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 350px;
+    font-size: 200px;
     text-align: center;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 #footer {
