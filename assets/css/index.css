@@ -15,6 +15,11 @@ h2 {
     font-family: 'times new roman';
 }
 
+h3 {
+    color: white;
+    text-align: center;
+}
+
 #section_imgdrink {
     text-align: center;
 }
@@ -27,7 +32,6 @@ h2 {
     background-color: rgb(0, 0, 0);
     width: 90%;
     height: 90%;
-    border-radius: 10px;
     border-left: 5px solid rgba(91, 91, 91, 0.97);
     }
 
