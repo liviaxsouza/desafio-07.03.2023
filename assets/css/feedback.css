@@ -2,7 +2,6 @@ body{
     background-color: black;
     margin:auto;
     padding: 0;
-    width: 30%;
     font-family: 'Times New Roman', Times, serif;
     margin: top 0;
     border-radius: 30px;
@@ -30,7 +29,7 @@ h1 {
 
 
 
- # button {
+ #button {
     text-align: center;
     width: 50px;
     border-radius: 10px;
@@ -48,5 +47,4 @@ h1 {
     display: flex;
     flex-direction: column;
     margin: auto;
-    width: 50%;
    }
